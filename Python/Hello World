@@ -2,3 +2,13 @@
 #WARNING ONCE IN, NEVER OUT
 
 print("hello world")
+
+
+
+# Hello word com função e input
+
+def main():
+  mensagem = input('Digite a mensagem de apresentação : ')
+  
+  print(f' A mensagem digitada foi : {mensagem} !')
+main()  
